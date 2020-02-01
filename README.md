@@ -5,7 +5,7 @@
   - [Feature Request: RSA Encryption](https://github.com/postmanlabs/postman-app-support/issues/1607)
 
 ## Getting Started
-* Just copy and paste the scrypt to the **Pre-request Script** tab, in your postman reqest window.
+* Just copy and paste the script to the **Pre-request Script** tab, in your postman request window.
 * You have to replace **YOUR-PLAIN-TEXT**, **YOUR-PUBLIC-KEY**, and **YOUR-HEADER-NAME** in the script, with yours.
 The public key should start with: *-----BEGIN PUBLIC KEY-----* 
 
